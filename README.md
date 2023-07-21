@@ -1,4 +1,4 @@
-<p align="center">
+<p align="Left">
 <img src="/src/frontend/static/icons/Hipster_HeroLogoMaroon.svg" width="300" alt="Online Boutique" />
 </p>
 
